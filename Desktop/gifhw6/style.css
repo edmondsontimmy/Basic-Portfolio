@@ -1,0 +1,27 @@
+body{
+	background: antiquewhite;
+}
+button{
+	padding: 10px;
+    margin: 5px;
+}
+h1{
+	text-align: center;
+}
+input{
+	padding: 5px;
+}
+form{
+	float: left;
+	margin-left: 150px;
+}
+#animals{
+	float: left;
+    width: 100%;
+    max-width: 650px;
+}
+#gifDiv{
+	width: 100%;
+	max-width: 750px;
+	margin-top: 150px;
+}
